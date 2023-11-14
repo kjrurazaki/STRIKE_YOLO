@@ -1,6 +1,6 @@
 # YOLO applied to STRIKE thermal profile
 
-This is not a new YOLO version, but the application of YOLO to a research problem for my master thesis. Here is the abstract:
+Application of YOLO to a research problem for my master thesis. Here is the abstract:
 
 # Abstract
 
