@@ -1,0 +1,7 @@
+
+                train: datasets/train/images
+                val: datasets/val/images
+                test: datasets/test/images
+
+                names: ['gaussian']
+                

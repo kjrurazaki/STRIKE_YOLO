@@ -1,0 +1,7 @@
+Annotation: Amplitudes estimated using the center directly
+
+                 image_path = /content/gdrive/MyDrive/Colab Notebooks/2023/Tesi/Data/Images_T80kenji/
+
+                 id_estimation_method = /content/gdrive/MyDrive/Colab Notebooks/2023/Tesi/Models/YOLOv0_T80kenji_detect/runs/2023-09-04_11-19-43/detect/train/weights/best.pt
+
+                 id_images evaluated: [208, 304, 262, 288, 77, 230, 45, 115, 172, 188, 93, 323, 371, 8, 285, 200, 383, 365, 297, 31, 28, 193, 322, 144, 286, 191, 155, 291, 109, 194, 97, 209, 310, 301, 70, 324, 4, 357, 57, 242]

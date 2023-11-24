@@ -1,0 +1,7 @@
+
+                train: /content/gdrive/MyDrive/Colab Notebooks/2023/Tesi/Models/YOLOv0/datasets/train/images
+                val: /content/gdrive/MyDrive/Colab Notebooks/2023/Tesi/Models/YOLOv0/datasets/val/images
+                test: /content/gdrive/MyDrive/Colab Notebooks/2023/Tesi/Models/YOLOv0/datasets/test/images
+
+                names: ['gaussian']
+                

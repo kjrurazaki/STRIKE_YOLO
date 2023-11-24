@@ -1,0 +1,7 @@
+Annotation: Amplitudes estimated using the center directly
+
+                 image_path = /content/gdrive/MyDrive/Colab Notebooks/2023/Tesi/Data/Images/gaussian_254.png
+
+                 id_estimation_method = GMM - random state 13 - 200 - 400 images
+
+                 id_images evaluated: [156, 74, 6, 60, 166, 128, 88, 65, 177, 176, 37, 116, 39, 188, 110, 98, 62, 93, 178, 149, 364, 386, 345, 367, 398, 385, 348, 399, 308, 290, 205, 340, 295, 269, 395, 246, 292, 352, 354, 254]

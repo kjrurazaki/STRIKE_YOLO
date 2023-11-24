@@ -1,0 +1,7 @@
+Annotation: Amplitudes estimated using the center directly
+
+                 image_path = /content/gdrive/MyDrive/Colab Notebooks/2023/Tesi/Data/Images/
+
+                 id_estimation_method = GMM - random state 13 - first 200 images
+
+                 id_images evaluated: [193, 121, 140, 186, 94, 113, 99, 184, 112, 176, 194, 109, 131, 70, 129, 79, 55, 148, 18, 53]

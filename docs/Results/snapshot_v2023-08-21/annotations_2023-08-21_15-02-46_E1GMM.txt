@@ -1,0 +1,7 @@
+Annotation: Amplitudes estimated using the center directly
+
+                 image_path = ['gaussian_193.png', 'gaussian_121.png', 'gaussian_140.png', 'gaussian_186.png', 'gaussian_94.png', 'gaussian_113.png', 'gaussian_99.png', 'gaussian_184.png', 'gaussian_112.png', 'gaussian_176.png', 'gaussian_194.png', 'gaussian_109.png', 'gaussian_131.png', 'gaussian_70.png', 'gaussian_129.png', 'gaussian_79.png', 'gaussian_55.png', 'gaussian_148.png', 'gaussian_18.png', 'gaussian_53.png']
+
+                 id_estimation_method = GMM - random state 13 - first 200 images
+
+                 id_images evaluated: [193, 121, 140, 186, 94, 113, 99, 184, 112, 176, 194, 109, 131, 70, 129, 79, 55, 148, 18, 53]

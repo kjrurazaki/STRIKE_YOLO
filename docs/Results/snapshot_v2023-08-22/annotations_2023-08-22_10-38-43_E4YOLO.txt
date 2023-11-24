@@ -1,0 +1,7 @@
+Annotation: Amplitudes estimated using the center directly
+
+                 image_path = /content/gdrive/MyDrive/Colab Notebooks/2023/Tesi/Data/Images/
+
+                 id_estimation_method = /content/gdrive/MyDrive/Colab Notebooks/2023/Tesi/Models/YOLOv0_E4_detect/runs/2023-08-21_14-37-58/detect/train/weights/best.pt
+
+                 id_images evaluated: [738, 777, 650, 772, 703, 704, 726, 710, 601, 622, 664, 694, 690, 700, 605, 719, 614, 603, 766, 714]
