@@ -1,6 +1,6 @@
 
-                train: docs/Models/YOLOv0_E4_detect/datasets/train/images
-                val: docs/Models/YOLOv0_E4_detect/datasets/val/images
-                test: docs/Models/YOLOv0_E4_detect/datasets/test/images
+                train: datasets/train/images
+                val: datasets/val/images
+                test: datasets/test/images
                 names: ['gaussian']
                 
