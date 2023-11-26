@@ -14,5 +14,11 @@ def format_code_with_black(folder_path):
 
 
 # Formating
-format_code_with_black("helpers")
-format_code_with_black("pipelines")
+# format_code_with_black("helpers")
+# format_code_with_black("pipelines")
+format_code_with_black("run DS-IA")
+format_code_with_black("run DS-IB")
+format_code_with_black("run DS-IC")
+format_code_with_black("run DS-ID")
+format_code_with_black("run DS-IE")
+format_code_with_black("run DS-II")
